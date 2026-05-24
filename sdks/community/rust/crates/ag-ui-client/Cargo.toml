@@ -17,7 +17,7 @@ futures = "0.3.31"
 json-patch = "4.0.0"
 log = "0.4.27"
 reqwest = { version = "0.12.22" , features = ["json", "stream"]}
-bytes = "1.5.0"
+bytes = "1.11.1"
 tokio = "1.36.0"
 
 [dev-dependencies]
