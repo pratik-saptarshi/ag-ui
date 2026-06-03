@@ -12,13 +12,13 @@ dependencies = [
     "click>=8.1.8",
     "dotenv>=0.9.9",
     "fastapi>=0.104.0",
-    "google-adk>=0.1.0",
+    "google-adk>=1.28.1",
     "httpx>=0.28.1",
     "langchain-google-genai>=2.1.4",
-    "langgraph>=0.4.1",
+    "langgraph>=1.0.10rc1",
     "openai>=1.93.0",
     "pydantic>=2.11.4",
-    "python-dotenv>=1.1.0",
+    "python-dotenv>=1.2.2",
     "uvicorn>=0.34.2",
 ]
 
