@@ -1,4 +1,4 @@
-agno>=2.0.0
+agno>=2.6.6
 openai>=1.88.0
 yfinance>=0.2.63
 fastapi>=0.115.13
